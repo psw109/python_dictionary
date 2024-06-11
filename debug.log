@@ -1,0 +1,2 @@
+2024-06-11 11:30:19,099 - debug_logger - DEBUG - add_numbers 함수가 호출되었습니다. 인수: a=3, b=5
+2024-06-11 11:30:19,100 - debug_logger - DEBUG - 두 숫자의 합은 8 입니다.
